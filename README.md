@@ -17,3 +17,4 @@ La variable a -> objetivo (binaria) representa si el donante participó en la ca
 - 1 = donó
 - 0 = no donó
 
+En el archivo [assignment_PCA.ipynb](assignment_PCA.ipynb) se encuentra el desarrollo del PCA.

@@ -1,6 +1,6 @@
 # 02-Principal-Component-Analysis
 
-El dataset que seleccioné para esta tarea fue *Blood Transfusion Service Center*, por Yeh (2008) y recuperado del [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/). Este dataset corresponde a un problema de clasificación dentro del área de negocios y marketing, específicamente en el contexto de campañas del área de salud.
+El [dataset](transfusion.data) que seleccioné para esta tarea fue *Blood Transfusion Service Center*, por Yeh (2008) y recuperado del [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/). Este dataset corresponde a un problema de clasificación dentro del área de negocios y marketing, específicamente en el contexto de campañas del área de salud.
 
 Los datos fueron recolectados con el propósito de evaluar el modelo RFMTC, una adaptación del modelo RFM utilizado en marketing, con el objetivo de analizar el historial de donaciones y predecir el comportamiento de los donantes ante campañas de donación que se realizan cada tres meses.
 
@@ -16,3 +16,4 @@ La variable a -> objetivo (binaria) representa si el donante participó en la ca
 
 - 1 = donó
 - 0 = no donó
+
